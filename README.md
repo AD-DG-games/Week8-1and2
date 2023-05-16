@@ -4,7 +4,7 @@ We created a new character capable of running and jumping in the scene PlayerMov
 
 We created a surface that changed the speed of the character in the scene change speed link to itch: "https://dvirgev.itch.io/week8-2"
 
-Color rules: 
+Color rules:
 * Red slow
 * Blue regular
 * Green fast
